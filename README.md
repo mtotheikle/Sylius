@@ -1,6 +1,8 @@
 Sylius [![Build status...](https://secure.travis-ci.org/Sylius/Sylius.png?branch=master)](http://travis-ci.org/Sylius/Sylius)
 ======
 
+https://www.codeship.io/projects/fa8b6d70-079a-0131-0e8b-7a5ec01f4ad3/status
+
 Sylius is an open source e-commerce solution for **PHP**, based on the [**Symfony2**](http://symfony.com) framework.
 
 Ultimate goal of the project is to create a webshop engine, which is user-friendly, *loved* by developers and has a helpful community.
